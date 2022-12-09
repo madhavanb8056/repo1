@@ -1,0 +1,10 @@
+ Volume in drive C is Acer
+ Volume Serial Number is D4AE-36FC
+
+ Directory of C:\Users\Man Bala\Desktop\project
+
+12/09/2022  03:18 PM    <DIR>          .
+12/09/2022  03:18 PM    <DIR>          ..
+12/09/2022  03:18 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  123,541,860,352 bytes free
